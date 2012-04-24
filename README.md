@@ -1,6 +1,8 @@
 OffersGenerator
 ===============
 
+DONT USE IT!!! ITS NOT READY!!!!
+
  * @author Mr. Sota
  * @license Creative Commons Attribution-NonCommercial-NoDerivs
  * @copyright 2012
